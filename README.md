@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanjitSG
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML Project
+- 👀 I’m Master of Information Technology and Engineering
+- 🌱 I’m currently learning Full-Stack-Development (MERN)
+- 💞️ I’m looking to collaborate on Web Development and IOT Projects
 - 📫 sanjeet25.sg@gmail.com
 
 <!---
