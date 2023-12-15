@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SanjitSG
-- 👀 I’m Master of Information Technology and Engineering
-- 🌱 I’m currently learning Full-Stack-Development (MERN)
-- 💞️ I’m looking to collaborate on Web Development and IOT Projects
+- 👋 Hi, I’m Sanjit
 - 📫 sanjeet25.sg@gmail.com
 
 <!---
