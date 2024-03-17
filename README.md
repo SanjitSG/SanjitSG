@@ -21,11 +21,8 @@ Technologies:
 
 Also interested in:
 
-- Computer vision, Machine Learning, Additive/Subtractive manufacturing
+- Computer vision, Machine Learning.
 - Digital Marketing, SEO, SMM, Blogging
-
-
-//<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitsg&" alt="sanjitsg" /></p>
 
 Cheers.\
 Sanjit Gawade
