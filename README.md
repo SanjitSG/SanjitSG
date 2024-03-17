@@ -24,8 +24,8 @@ Also interested in:
 - Computer vision, Machine Learning, Additive/Subtractive manufacturing
 - Digital Marketing, SEO, SMM, Blogging
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjitsg&show_icons=true&locale=en" alt="sanjitsg" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitsg&" alt="sanjitsg" /></p>
+
+//<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitsg&" alt="sanjitsg" /></p>
 
 Cheers.\
 Sanjit Gawade
