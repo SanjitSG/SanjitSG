@@ -15,7 +15,7 @@ Check out my Blog - [@developerSanjit](https://hashnode.com/@devloperSanjit)
 
 Technologies:
 
-- Client: React, Redux, JavaScript
+- Client: React, Redux, JavaScript, TailwindCSS
 
 - Server: Node, Express
 
