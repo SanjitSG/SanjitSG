@@ -1,9 +1,8 @@
 
 # Hello, This is Sanjit Gawade 👋 
 
+Trying to create a certain life in uncertain world.\n
 
-I'm an Engineer by profession and a forever learner.\
-I like to learn and share my knowledge.\
 Check out my Blog - [@developerSanjit](https://hashnode.com/@devloperSanjit)
 
 
