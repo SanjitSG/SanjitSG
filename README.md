@@ -1,8 +1,6 @@
 
 # Hello, This is Sanjit Gawade 👋 
 
-Trying to create a certain life in uncertain world.
-
 Check out my Blog - [@developerSanjit](https://hashnode.com/@devloperSanjit)
 
 
