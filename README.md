@@ -12,9 +12,9 @@ Check out my Blog - [@developerSanjit](https://hashnode.com/@devloperSanjit)
 
 Technologies:
 
-- Client: React, Redux, JavaScript, TailwindCSS
+- Frontend: ReactJS, TailwindCSS, Zod, Redux, Recoil
 
-- Server: Node, Express
+- Backend: Node, Express, Hono, Serverless backends, AWS S3 hosting
 
 Also interested in:
 
