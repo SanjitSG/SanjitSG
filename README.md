@@ -1,10 +1,8 @@
 
 # Hello, This is Sanjit Gawade 👋 
+Moto: Get the work done! No fluff
 
 Check out my Blog - [@developerSanjit](https://hashnode.com/@devloperSanjit)
-
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nexgodspeed)
 
 
 
