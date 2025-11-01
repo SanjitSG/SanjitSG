@@ -3,7 +3,7 @@
 Moto: Get the work done! No fluff
 
 Check out my Blog - [@developerSanjit](https://hashnode.com/@devloperSanjit)
-
+Khan Academy Profile - [@Sanjit](https://www.khanacademy.org/profile/sanjit)
 
 
 <s>Technologies:
